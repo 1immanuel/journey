@@ -1,0 +1,1 @@
+This folder contains weekly journal entries about my experiences in the 5/2021 Digital Crafts web dev cohort. Enjoy. 
