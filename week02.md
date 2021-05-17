@@ -1,0 +1,1 @@
+    Week two was a little more challenging than week one, which was to be expected. Not out of my scope of understanding but I definitely had to do more self study to get comfortable with OOP and classes. All in all im still very excited about the class and feel I am keeping up just fine. Cant wait to learn more and put it into practice.
